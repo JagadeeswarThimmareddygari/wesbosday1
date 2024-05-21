@@ -1,0 +1,1 @@
+Implemented dynamic sound effects and visually appealing transitions on the front-end webpage to enhance user experience. These effects engage users by triggering upon hovering or moving the pointer across the page, adding an interactive dimension to the browsing experience.
